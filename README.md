@@ -3,7 +3,7 @@
 #Test
 Screenshot of Test Passing
 
-![NPM Test](https://user-images.githubusercontent.com/64857091/88410712-b5675480-cda4-11ea-8d10-7f8a5f7105f7.jpg)
+![NPM Test](
 
 # Description
 
@@ -21,7 +21,7 @@ User will be asked if they want to add another member. Choosing "Yes" will have 
 
 # HTML Snapshot
 
-![Team Snapshot](https://user-images.githubusercontent.com/64857091/88412214-36275000-cda7-11ea-8bfd-dd63555a3140.jpg)
+![Team Snapshot]
 
 # Used Techinques
 
@@ -31,6 +31,5 @@ Jest to run test on constructors
 
 # Demo Link
 
-Link to demo video
 
-https://youtu.be/IxmGVb-I8kg
+
